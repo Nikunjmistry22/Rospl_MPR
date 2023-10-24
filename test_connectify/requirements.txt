@@ -1,0 +1,7 @@
+kivy
+cv2
+numpy
+webbrowser
+pyzbar
+qrcode
+sqlite3
